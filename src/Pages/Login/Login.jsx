@@ -101,7 +101,7 @@ const Login = () => {
 							)}
 						</button>
 						<p>
-							Don't have an account? <a href="/register">Register</a>
+							Don't have an account? <a href="https://busy-pink-coyote-hem.cyclic.app/">Register</a>
 						</p>
 					</div>
 				</form>
